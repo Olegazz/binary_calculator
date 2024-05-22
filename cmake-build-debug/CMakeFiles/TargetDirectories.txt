@@ -1,0 +1,3 @@
+C:/Users/molou/CLionProjects/binary_calculator/cmake-build-debug/CMakeFiles/binary_calculator.dir
+C:/Users/molou/CLionProjects/binary_calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/molou/CLionProjects/binary_calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
